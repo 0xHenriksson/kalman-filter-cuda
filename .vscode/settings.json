@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp"
+    }
+}
